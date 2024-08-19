@@ -21,7 +21,8 @@
 .cabecalho__imagem{
     padding: 1em;
 }
-.lista-menu{
+
+.lista__menu{
     display:none ;
 }
 
