@@ -24,7 +24,8 @@
 }
 
 .lista-menu{
-    display:none ; 
+    display:none ;
+    position: absolute; 
 }
 
 .container__botao:checked~.lista-menu{
