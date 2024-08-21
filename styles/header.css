@@ -33,7 +33,7 @@
     background-color: var(--branco);
 }
 .lista-menu__titulo{
-    color: var(--laranja);
+    background-color: var(--laranja);
 }
 
 .lista-menu__link{
